@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LAB06</string>
+    <string name="save">SAVE</string>
+    <string name="text">text</string>
+    <string name="fragment_1">Fragment 1</string>
+    <string name="fragment_2">Fragment 2</string>
+    <string name="fragment1">Fragment1</string>
+    <string name="fragment2">\n</string>
+</resources>
